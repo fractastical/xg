@@ -21,6 +21,18 @@
       "xCommunityId": "1914099192714375596",
       "repoUrl": "",
       "githubUsername": "realcraig"
+    },
+    {
+      "slug": "appleseed",
+      "url": "https://fractastical.github.io/appleseed",
+      "imagePath": "https://fractastical.github.io/appleseed/assets/appleseed-logo-1.png",
+      "title": "Appleseed",
+      "description": "Build a diverse ecosystem alongside Johnny Appleseed",
+      "xUsername": "jdietz",
+      "xCommunityId": "1914136338993123691",
+      "repoUrl": "",
+      "githubUsername": "fractastical"
     }
+
   ]
 }
